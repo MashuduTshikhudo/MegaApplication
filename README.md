@@ -1,1 +1,1 @@
-# MegaApplication
+# spring-boot-mariadb-example
